@@ -1,0 +1,8 @@
+npx create-react-app <filename>
+
+cd <project location>
+npm start "to start"
+ctrl + c "to stop"
+
+npm install bootstrap
+npm install react-router-dom

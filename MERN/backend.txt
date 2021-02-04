@@ -1,0 +1,40 @@
+_ mkdir <backend filename>
+_ cd <backend filename>
+_ npm init -y
+_ npm install express body-parser cors mongoose
+_ npm install -g nodemon "only once I did already..."
+
+_nodemon <filename of the server>
+
+*******************************************************
+*******************************************************
+*** To start mongodb server                         ***
+*** _ Go to the bin folder of mongodb server in CMD ***
+*** _ type mongod to start server                   ***
+*******************************************************
+*******************************************************
+
+*******************************************************
+*******************************************************
+*** To start mongodb client                         ***
+*** _ Go to the bin folder of mongodb server in CMD ***
+*** _ type mongo to start client                    ***
+*** > use <database name>			    ***
+*******************************************************
+*******************************************************
+
+First we have to create a data model to use mongoose which is called as "mongoose schema".
+
+# Example Rest endpoints
+* localhost:4000/todos/add
+* localhost:4000/todos
+* localhost:4000/todos/update
+* localhost:4000/todos/id"45645645645"
+
+# Example JSON
+{
+	"todo_description": "My first todo"
+	"todo_responsible": "Hariharan"
+	"todo_priority": "Medium"
+	"todo_completed": false
+}
