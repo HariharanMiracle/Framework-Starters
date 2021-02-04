@@ -1,0 +1,32 @@
+##################################
+##################################
+##################################
+React framework basics
+----------------------
+
+Install Node and NPM
+
+Install React using command
+> npm install react --save
+
+Create a starter app using
+> npx create-react-app {app-name}
+
+Favourite supportive libraries in react
+----------------------
+* For navigation and routing
+react-router-dom
+
+* For connecting to other APIs
+axios
+
+* For styling
+react-bootstrap
+##################################
+##################################
+##################################
+
+~ Author Hariharan Vasudevan
+~ BSc in Information Technology
+~ Srilanka Institute Of Information Technology
+This will be updated

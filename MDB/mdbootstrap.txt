@@ -1,0 +1,17 @@
+<1>
+Go to this link:
+https://mdbootstrap.com/docs/react/getting-started/download/
+
+Click direct download.
+
+And extract that to a desired folder.
+
+<2>
+In CMD:
+Go to the folder where you extracted the files.
+_ npm install
+_ npm start
+_ ctrl + c
+_ Terminate batch job (Y/N)? y
+_ npm run remove-demo
+_ npm start
